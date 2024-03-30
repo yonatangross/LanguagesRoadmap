@@ -1,0 +1,6 @@
+@LanguagesRoadmap.UserService_HostAddress = http://localhost:5250
+
+GET {{LanguagesRoadmap.UserService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

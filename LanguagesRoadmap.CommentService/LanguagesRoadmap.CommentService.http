@@ -1,0 +1,6 @@
+@LanguagesRoadmap.CommentService_HostAddress = http://localhost:5249
+
+GET {{LanguagesRoadmap.CommentService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
